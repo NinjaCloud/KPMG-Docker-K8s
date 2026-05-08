@@ -1,5 +1,5 @@
 
-# **Lab 15: Kubernetes Deployment**
+# **Lab: Kubernetes Deployment**
 
 This lab guides you through creating, updating, rolling back, and scaling a Kubernetes Deployment using an NGINX application.
 
